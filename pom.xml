@@ -1,8 +1,8 @@
 <project>
   <groupId>org.setup</groupId>
-  <artifactId>spark-tutorial-syslog</artifactId>
+  <artifactId>syslog-java</artifactId>
   <modelVersion>4.0.0</modelVersion>
-  <name>Simple Project</name>
+  <name>Syslog Top</name>
   <packaging>jar</packaging>
   <version>1.0</version>
   <repositories>
